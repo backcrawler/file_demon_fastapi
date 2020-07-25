@@ -1,0 +1,3 @@
+DATABASE_URI = ""
+STORAGE_DIRNAME = "store"
+DEBUG = True
